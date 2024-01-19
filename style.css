@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    background-color:black;
+}
+.header{
+    padding: 2rem;
+    margin: 1rem;
+    text-align: center;
+}
+.header > .name{
+    margin-bottom: 1rem;
+}
+.section{
+    display: grid;
+    grid-template-columns: 2fr;
+    max-width: 100rem;
+    margin: auto;
+    background-color: white;
+    color: black;
+    align-items: center;
+    
+}
+.paragraph{
+    color: black;
+    background-color: white;
+}
+.intro{
+    text-align: center;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img{
+    max-width: 100%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.info{
+    text-align: center;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sec{
+    text-align: center;
+    font-size: 70%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ 
+ .p1c{
+    background-color: white;
+    color: black;
+    float: left;
+    text-align: center;
+    margin-left: auto;
+} 
+.p2c{
+    background-color: white;
+    color: black;
+    
+    text-align: center;
+    margin-left: auto;
+}
+.p3c{
+    background-color: white;
+    color: black;
+   
+    text-align: center;
+    margin-left: auto;
+}
+.p4c{
+    background-color: white;
+    color: black;
+    
+    text-align: center;
+    margin-left: auto;
+}
+.p5c{
+    background-color: white;
+    color: black;
+    
+    text-align: center;
+    margin-left: auto;
+}
+.p6c{
+    background-color: white;
+    color: black;
+    
+    text-align: center;
+    margin-left: auto;
+
+}
+.p7c{
+    background-color: white;
+    color: black;
+    
+    text-align: center;
+    margin-left: auto;
+}
+
+
+#container{
+    padding: 0;
+    max-width: 100rem;
+    margin: 0 auto;
+}
+.p1c, .p2c, .p3c, .p4c, .p5c, .p6c, .p7c{
+width: 180px;
+float: left;
+margin: 18px;
+}
+h3{
+   
+    background-color: white;
+    color: black;
+    max-width: 100rem;
+    text-align: center;
+}
